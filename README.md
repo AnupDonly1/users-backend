@@ -1,4 +1,4 @@
-# Spring Boot UsersService
+# Spring Boot users-backend
 
 ## Run Spring Boot application
 

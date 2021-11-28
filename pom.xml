@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.hashes</groupId>
-    <artifactId>users</artifactId>
+    <artifactId>users-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>users</name>
     <description>Hashes Users</description>
